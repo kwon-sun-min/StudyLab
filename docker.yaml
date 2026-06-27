@@ -1,0 +1,3 @@
+print("Docker file for setting up the environment")
+print("I was able to set up the environment successfully")
+print("I was able to set up the environment successfully2")
