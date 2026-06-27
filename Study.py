@@ -1,2 +1,1 @@
-d = {'a' : 1, 'b' : 2, 'c' : 3}
-print(d.get('d', 0))
+print("commit test")
